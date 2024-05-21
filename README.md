@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeFay
 - 👀 I’m interested in being a game developer
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning React
 
 <!---
 MeFay/MeFay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
